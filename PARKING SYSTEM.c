@@ -11,7 +11,9 @@ void ShowDetail();
 int nor=0,nob=0,noc=0,amount=0,count=0;
 void main(){
 	while(1){
+		//switch case--->
 		switch(Menu()){
+				//cases--->
 			case 1 :
 				Bus();
 				break;
